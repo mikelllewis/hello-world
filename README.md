@@ -1,4 +1,5 @@
 # hello-world
 Hello World repo
 
-How does this work again?
+
+You don't have to be a git to like Github but it helps.
